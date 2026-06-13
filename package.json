@@ -1,0 +1,17 @@
+{
+  "name": "solana-top-holders-analyzer",
+  "version": "1.0.0",
+  "description": "Solana token top holders distribution analyzer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0",
+    "node-fetch": "^3.3.2"
+  }
+}
